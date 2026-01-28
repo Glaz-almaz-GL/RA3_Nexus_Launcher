@@ -19,6 +19,7 @@
 *   **Interface:** Modern UI using Avalonia.
 *   **Notifications:** A notification system for displaying information, warnings, and errors.
 *   **Requires Administrator privileges** for specific operations (patching, registry changes).
+*   **Detailed Tooltips:** Comprehensive tooltips appear for every UI element, including text labels, buttons, input fields, and dropdown menus, providing detailed descriptions of their functionality and purpose when hovered over. For IP address fields, hovering will display information about the IP type (e.g., Radmin VPN, Hamachi, local network) and its intended usage context.
 
 **Technologies:**
 
