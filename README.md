@@ -21,6 +21,15 @@
 *   **Requires Administrator privileges** for specific operations (patching, registry changes).
 *   **Detailed Tooltips:** Comprehensive tooltips appear for every UI element, including text labels, buttons, input fields, and dropdown menus, providing detailed descriptions of their functionality and purpose when hovered over. For IP address fields, hovering will display information about the IP type (e.g., Radmin VPN, Hamachi, local network) and its intended usage context.
 
+**Screenshots:**
+- Main Menu:
+<img width="1296" height="760" alt="image" src="https://github.com/user-attachments/assets/ef5ea3a6-20d8-499d-af55-626b4d4df57a" />
+
+- Settings Menu:
+<img width="716" height="514" alt="image" src="https://github.com/user-attachments/assets/d19bc3a5-dffb-4033-8ffd-51a9492e7886" />
+<img width="718" height="717" alt="image" src="https://github.com/user-attachments/assets/3b7b04f3-18e2-46ff-8d66-c7c0e2df3d64" />
+<img width="713" height="384" alt="image" src="https://github.com/user-attachments/assets/cc7eea83-9cf0-4e1a-8446-2ca2d0b4907f" />
+
 **Technologies:**
 
 *   **Programming Language:** C# 14
