@@ -1,6 +1,6 @@
 # RA3_Nexus_Launcher
 
-**RA3 Nexus Launcher** is a modern, feature-rich launcher for the game Command & Conquer: Red Alert 3 and its modifications, developed using C# 13, .NET 9+, and the Avalonia UI Framework. The interface is inspired by launchers like Corona Launcher and Armor Rush Launcher, using a font based on Red Alert 3 Extended.
+**RA3 Nexus Launcher** is a modern, feature-rich launcher for the game Command & Conquer: Red Alert 3 and its modifications, developed using C# 14, .NET 10, and the Avalonia UI Framework. The interface is inspired by launchers like Corona Launcher and Armor Rush Launcher, using a font based on Red Alert 3 Extended.
 
 **Core Features:**
 
@@ -22,8 +22,8 @@
 
 **Technologies:**
 
-*   **Programming Language:** C# 13 (planned migration to C# 14)
-*   **Framework:** .NET 9 (planned migration to .NET 10)
+*   **Programming Language:** C# 14
+*   **Framework:** .NET 10
 *   **UI Toolkit:** Avalonia
 *   **Architecture:** MVVM (CommunityToolkit.Mvvm)
 
