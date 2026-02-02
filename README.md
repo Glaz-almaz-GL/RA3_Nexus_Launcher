@@ -2,7 +2,8 @@
 
 **RA3 Nexus Launcher** is a modern, feature-rich launcher for *Command & Conquer: Red Alert 3* and its modifications, built with **C# 14**, **.NET 10**, and the **Avalonia UI Framework**. The interface draws inspiration from launchers like *Corona Launcher* and *Armor Rush Launcher*, using a custom font based on *Red Alert 3 Extended*.
 
-> ⚠️ **Administrator privileges are required** for operations involving patches and Windows Registry modifications.
+> ⚠️ **Administrator privileges are required** for operations involving patches and Windows Registry modifications.  
+> 💬 **Join our community**: [![Discord](https://img.shields.io/discord/1439871021850165332?color=7289da&label=Discord&logo=discord)](https://discord.gg/tzW856ewKm)
 
 ---
 
@@ -60,7 +61,7 @@ All launcher actions are logged to timestamped files:
 
 Log format example:
 ```
-[2026-01-31 14:33:08.72] [Information] [MODS] Parsed mod info — Name: WOD, Version: 0.09l
+[2026-01-31 14:33:08.72] [Information] [MODS] Parsed mod info — Name: WOD, Version: 0.091
 [2026-01-31 14:33:11.171] [Success] [DISCORD] Discord connection established: glaz_almaz_gl#1049990
 ...
 ```
@@ -95,20 +96,20 @@ Each entry includes a timestamp, log level, source context (`[MODS]`, `[INI]`, `
 ## 📸 Screenshots
 
 ### Main Menu  
-![Main Menu](https://github.com/user-attachments/assets/ef5ea3a6-20d8-499d-af55-626b4d4df57a)  
+![Main Menu](https://github.com/user-attachments/assets/ef5ea3a6-20d8-499d-af55-626b4d4df57a)
 
 ### Settings — General & Audio  
 ![Settings General](https://github.com/user-attachments/assets/d19bc3a5-dffb-4033-8ffd-51a9492e7886)  
 ![Settings Audio](https://github.com/user-attachments/assets/3b7b04f3-18e2-46ff-8d66-c7c0e2df3d64)  
-![Settings Language & Launch](https://github.com/user-attachments/assets/cc7eea83-9cf0-4e1a-8446-2ca2d0b4907f) 
+![Settings Language & Launch](https://github.com/user-attachments/assets/cc7eea83-9cf0-4e1a-8446-2ca2d0b4907f)
 
 ### Maps Manager  
 ![Maps Manager Overview](https://github.com/user-attachments/assets/60813296-fd34-499a-80c1-7b08ef923d5b)  
-![Map Details Dialog](https://github.com/user-attachments/assets/e880ce4b-0701-456d-b899-82fccc6f1067)  
+![Map Details Dialog](https://github.com/user-attachments/assets/e880ce4b-0701-456d-b899-82fccc6f1067)
 
 ### Discord Rich Presence  
 ![Discord Status — In Launcher](https://github.com/user-attachments/assets/f21f41d6-12b2-42e2-92e3-5947242d5310)  
-![Discord Status — In-Game](https://github.com/user-attachments/assets/cbb39ef3-2354-4173-b79c-444eda1109f5)  
+![Discord Status — In-Game](https://github.com/user-attachments/assets/cbb39ef3-2354-4173-b79c-444eda1109f5)
 
 ---
 
@@ -122,6 +123,13 @@ Each entry includes a timestamp, log level, source context (`[MODS]`, `[INI]`, `
 Configuration is stored at:  
 `%AppData%\RA3 Nexus Launcher\settings.json`
 
+---
+
+## 💬 Community & Support
+
+Join our official Discord server to get help, share feedback, or discuss modding:
+
+🔗 [**Join RA3 Nexus Launcher Discord**](https://discord.gg/tzW856ewKm)
 ---
 
 > 🛠️ **Developer**: Glaz_almaz  
